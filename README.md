@@ -1,5 +1,7 @@
-# Website_Building_Practice_1
+# Template1
 
-To practice build the website 1, take the other website as a template to practice.<br/>
+It is for practicing website template building. It is for an imaginary fitness company. All the data is imaginary.<br/>
 <br/>
+You can see it here-> https://iamlovey47.github.io/Template1/ 
+
 
